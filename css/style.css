@@ -2,14 +2,14 @@ body {
     background-color: lightblue;
 
   }
-  
+
   {
     box-sizing: border-box;
   }
   
   h1 {
     color: black;
-    text-align: center;
+    text-align: left;
     font-family: sans-serif;
   }
   h2 {
@@ -21,6 +21,7 @@ body {
       padding-right: 150px;
       padding-bottom: 150px;
       padding-left: 150px;
+      pad
       
      
   }
