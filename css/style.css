@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+   
+  }
+
+  
+  h1 {
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  h2 {
+      color : palevioletred;
+      text-align: left;
+      font-family: monospace;
+  }
+  
+  p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+  }
+  .grid-container {
+    display: grid;
+  }
+  
